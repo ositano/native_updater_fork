@@ -18,7 +18,7 @@ dependencies:
 
   # Add this inside pubspec.yaml
   native_updater:
-    git: https://github.com/loadsmileau/native_updater
+    git: https://github.com/ositano/native_updater_fork.git
 ```
 
 ## Setup
